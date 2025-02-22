@@ -10,3 +10,4 @@ A simple React application built with Vite, TypeScript, and SWC that fetches dat
 
 ## Vercel Link
 
+https://mp-2-amber.vercel.app/
